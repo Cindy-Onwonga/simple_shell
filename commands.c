@@ -1,5 +1,3 @@
-
-
 #include "commands.h"
 #include "builtins.h"
 #include "general.h"
